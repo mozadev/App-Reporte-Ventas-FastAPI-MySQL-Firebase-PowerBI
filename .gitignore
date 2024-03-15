@@ -1,0 +1,13 @@
+# Ignorar archivos de configuración con secretos
+base-de-datos-ba-firebase-adminsdk-gjzgi-2ad58f7287.json
+
+
+# Ignorar directorios de entornos virtuales
+etl-python-env/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos específicos de Excel que no deben ser versionados
+*.xlsx
